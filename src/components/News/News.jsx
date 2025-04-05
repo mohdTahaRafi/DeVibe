@@ -59,8 +59,8 @@ function News() {
                 <p className="text-gray-600 mb-4">{article.description}</p>
                 <a
                   href={article.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  target=""
+                  rel=""
                   className="inline-flex items-center text-indigo-600 hover:text-indigo-500"
                 >
                   Read more
